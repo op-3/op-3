@@ -1,7 +1,5 @@
 # Welcome to my coding universe! 👋
 
-![Creative Cover Image](https://avatars.githubusercontent.com/u/94668845?s=400&u=280dd24ee53b7a32734bb80ab91404960cdc94c5&v=4)
-
 ## Who Am I? 🧑‍💻
 
 An enthusiastic developer with a strong interest in web development and software engineering.
@@ -36,7 +34,7 @@ An enthusiastic developer with a strong interest in web development and software
 
 ## GitHub Stats 📊
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=op-3&show_icons=true&theme=radical)
 
 ## Latest Blog Posts 📝
 
