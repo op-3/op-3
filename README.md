@@ -1,6 +1,6 @@
 # Welcome to my coding universe! 👋
 
-![Creative Cover Image](link_to_image)
+![Creative Cover Image](https://avatars.githubusercontent.com/u/94668845?s=400&u=280dd24ee53b7a32734bb80ab91404960cdc94c5&v=4)
 
 ## Who Am I? 🧑‍💻
 
@@ -41,17 +41,11 @@ An enthusiastic developer with a strong interest in web development and software
 ## Latest Blog Posts 📝
 
 <!-- BLOG-POST-LIST:START -->
-- [First Article Title](article_link)
-- [Second Article Title](article_link)
-- [Third Article Title](article_link)
+- [First Article Title](https://github.com/op-3/Password-Manager)
+- [Second Article Title](https://github.com/op-3/MiniTools)
+- [Third Article Title](https://github.com/op-3/wallpaperHub)
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect With Me 🌐
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdallah-alrisi/)
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your_username" alt="Profile views">
-</p>
