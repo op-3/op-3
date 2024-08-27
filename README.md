@@ -39,9 +39,9 @@ An enthusiastic developer with a strong interest in web development and software
 ## Latest Blog Posts 📝
 
 <!-- BLOG-POST-LIST:START -->
-- [First Article Title](https://github.com/op-3/Password-Manager)
-- [Second Article Title](https://github.com/op-3/MiniTools)
-- [Third Article Title](https://github.com/op-3/wallpaperHub)
+- [Password Manager](https://github.com/op-3/Password-Manager)
+- [Mini Tools](https://github.com/op-3/MiniTools)
+- [wallpaperHub](https://github.com/op-3/wallpaperHub)
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect With Me 🌐
