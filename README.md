@@ -36,14 +36,6 @@ An enthusiastic developer with a strong interest in web development and software
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=op-3&show_icons=true&theme=radical)
 
-## Latest Blog Posts 📝
-
-<!-- BLOG-POST-LIST:START -->
-- [Password Manager](https://github.com/op-3/Password-Manager)
-- [Mini Tools](https://github.com/op-3/MiniTools)
-- [wallpaperHub](https://github.com/op-3/wallpaperHub)
-<!-- BLOG-POST-LIST:END -->
-
 ## Connect With Me 🌐
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdallah-alrisi/)
